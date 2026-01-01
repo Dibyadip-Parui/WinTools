@@ -1,0 +1,10 @@
+This is a standard python tool to help user
+with some common and basic tasks.
+A windows standalone .exe will be released soon
+
+!!! READ CAREFULLY !!!
+The current code might give corupted files if the source files
+corupted or if an file named the same as a file made by our app
+are on the same location and please AVOID SUBFOLDERS IN THE APPS OPERATIONAL
+FOLDER
+
